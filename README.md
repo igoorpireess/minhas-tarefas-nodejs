@@ -1,5 +1,7 @@
 # ✅ To-Do List — Node.js + Express
 
+![Preview do sistema](home.png)
+
 Aplicação web de gerenciamento de tarefas desenvolvida com **Node.js**, **Express** e **JavaScript puro** no frontend.
 
 Projeto desenvolvido durante o curso de **Análise e Desenvolvimento de Sistemas**.
